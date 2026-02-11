@@ -11,4 +11,6 @@ return {
     warp     = { id = "dev.warp.Warp-Stable",           key = "w" },
     postman  = { id = "com.postmanlabs.mac",            key = "p" },
     figma    = { id = "com.figma.Desktop",              key = "f" },
+    calculator = { id = "com.apple.calculator",         key = "k" },
+    docker     = { id = "com.docker.docker",            key = "d" },
 }
