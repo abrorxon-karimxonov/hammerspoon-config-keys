@@ -12,5 +12,6 @@ return {
     postman  = { id = "com.postmanlabs.mac",            key = "p" },
     figma    = { id = "com.figma.Desktop",              key = "f" },
     calculator = { id = "com.apple.calculator",         key = "k" },
-    docker     = { id = "com.docker.docker",            key = "d" },
+	chrome = { id = "com.google.chrome",         key = "o" },    
+    -- docker     = { id = "com.docker.docker",            key = "d" },
 }
