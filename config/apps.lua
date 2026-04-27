@@ -13,6 +13,7 @@ return {
     { id = "com.figma.Desktop",             key = "f" },
     { id = "com.apple.calculator",          key = "k" },
     { id = "com.google.chrome",             key = "o" },
+    { id = "com.apple.Notes",             key = "n" },
 
     { id = "com.microsoft.VSCode",          key = "c" },
     -- { id = "com.todesktop.230313mzl4w4u92",  key = "c" }, -- cursor idea
