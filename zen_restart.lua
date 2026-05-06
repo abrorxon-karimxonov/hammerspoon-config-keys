@@ -121,12 +121,12 @@ if zen.menu then
                 hs.alert.show("🔄 Zen is not running", 2)
             end
         end},
-        {title = "-"},
+        -- {title = "-"},
         {title = "♻️  Restart (Clean Memory)", fn = zen.memoryCleanRestart},
-        {title = "💨 Restart (Force)",        fn = zen.forceRestart},
-        {title = "🍎 Restart (Native)",        fn = zen.nativeRestart},
-        {title = "-"},
-        {title = "🚀 Launch Zen", fn = function() hs.application.launchOrFocus("Zen") end},
+        -- {title = "💨 Restart (Force)",        fn = zen.forceRestart},
+        -- {title = "🍎 Restart (Native)",        fn = zen.nativeRestart},
+        -- {title = "-"},
+       	-- {title = "🚀 Launch Zen", fn = function() hs.application.launchOrFocus("Zen") end},
     })
 end
 
